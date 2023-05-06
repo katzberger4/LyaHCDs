@@ -1,5 +1,5 @@
 # LyaHCDs
-*Annotated Jupyter notebooks and notes about the influence of HCDs on Lyman-alpha forest correlation from research conducted during OSU SURP 2022 and the 2022-23 academic year*
+*Research on the influence of HCDs on Lyman-alpha forest correlation conducted during OSU SURP 2022 and the 2022-23 academic year*
 
 - AU22 DESI Research: written record from autumn 2022 of important notebooks from the summer and what they do, which models/mocks are being evaluated, plots created, and problems encountered
 - DESI Comprehensive Notes: written record from summer 2022 of all weekly notes
