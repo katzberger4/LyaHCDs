@@ -9,4 +9,4 @@
 - fitter_plots_outputs: Jupyter notebook of plots measuring the efficiency of different models to determine the Alcock-Paczynski parameter, $\phi_{s}$, for the auto correlation under different mock conditions, a 2-D plot of BAO parameters, and a triangle plot of 5 parameters
 - mock_model_plots: Jupyter notebook of plots measuring the efficiency of different models to determine the Alcock-Paczynski parameters, $\phi_{s}$ and $\alpha_{s}$, for the auto correlation under different mock conditions
 - picca: Jupyter notebook that computes the correlation function in Fourier space for different mock conditions and compares them to two exponential models
-- piccaoutputs: Jupyter notebook that computes correlation functions for realistic, HCD -> 20, and HCD -> 17 mocks and produces output txt files for each that are used to create the Fvoigt model
+- piccaoutputs: Jupyter notebook that computes the correlation function for realistic, HCD -> 20, and HCD -> 17 mocks and produces output txt files for each that are used to create the Fvoigt model
